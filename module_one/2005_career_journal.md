@@ -18,23 +18,30 @@
 
 * What is something you know about (list some knowledge/expertise you have)?
 
-I know about criminal law having practiced in the area for several years.
+  I know about criminal law having practiced in the area for several years.
 
 * What is something you have a natural ability to do well (list a talent)?
 
-I am good at communicating my thoughts concisely and coherently.
+  I am good at communicating my thoughts concisely and coherently.
 
 * How do those combine to create a specific strength?
 
-I was good at crafting arguments on the fly in the courtroom.
+  I was good at crafting arguments on the fly in the courtroom.
 
 2. Read through your Top 4 results from Pairin
 * In your own words, what do these top 4 qualities tell you about yourself?
 
-That I am sort of boring. "Love of moderation?" Yeesh.
+  That I am sort of boring. "Lover of moderation?" Yeesh. The others are a little better but none suggest I'm very good at
+  parties.
 
 * Do they resonate with you? Why/why not?
+
+  They are probably accurate. Does that mean the resonate with me? 
+  
 * How do they relate to the strength you wrote about in Prompt #1?
+
+  They mean that I was good at convincing people using logos, but for those uninterested in "objective/analytical"
+ "moderate" 
 
 3. Challenges with strengths
 * What can make it challenging to recognize your strengths? How can you work through those challenges?
