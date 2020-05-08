@@ -13,12 +13,26 @@
 ### Mod 1 Week 1: Understanding your strengths 
 1. Describe one of your strengths
 * What is something you have learned to do well (list a skill)?
+
+I feel comfortable with very basic JS (data strings, for loops, etc.) I'm also getting better at quickly typing all those characters that I've never used until I started coding.
+
 * What is something you know about (list some knowledge/expertise you have)?
+
+I know about criminal law having practiced in the area for several years.
+
 * What is something you have a natural ability to do well (list a talent)?
+
+I am good at communicating my thoughts concisely and coherently.
+
 * How do those combine to create a specific strength?
+
+I was good at crafting arguments on the fly in the courtroom.
 
 2. Read through your Top 4 results from Pairin
 * In your own words, what do these top 4 qualities tell you about yourself?
+
+That I am sort of boring. "Love of moderation?" Yeesh.
+
 * Do they resonate with you? Why/why not?
 * How do they relate to the strength you wrote about in Prompt #1?
 
