@@ -14,7 +14,7 @@
 1. Describe one of your strengths
 * What is something you have learned to do well (list a skill)?
 
-I feel comfortable with very basic JS (data strings, for loops, etc.) I'm also getting better at quickly typing all those characters that I've never used until I started coding.
+  I feel comfortable with very basic JS (data strings, for loops, etc.) I'm also getting better at quickly typing all those   characters that I've never used until I started coding.
 
 * What is something you know about (list some knowledge/expertise you have)?
 
